@@ -1,0 +1,3 @@
+/home/csmoulaison/repos/caravan/build/CMakeFiles/caravan.dir
+/home/csmoulaison/repos/caravan/build/CMakeFiles/edit_cache.dir
+/home/csmoulaison/repos/caravan/build/CMakeFiles/rebuild_cache.dir

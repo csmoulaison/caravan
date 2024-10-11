@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/home/csmoulaison/repos/caravan/build",
+  "command": "/sbin/c++  -I/home/csmoulaison/repos/caravan/src -isystem /usr/include/SDL2  -o CMakeFiles/caravan.dir/src/assets.cpp.o -c /home/csmoulaison/repos/caravan/src/assets.cpp",
+  "file": "/home/csmoulaison/repos/caravan/src/assets.cpp",
+  "output": "CMakeFiles/caravan.dir/src/assets.cpp.o"
+},
+{
+  "directory": "/home/csmoulaison/repos/caravan/build",
+  "command": "/sbin/c++  -I/home/csmoulaison/repos/caravan/src -isystem /usr/include/SDL2  -o CMakeFiles/caravan.dir/src/audio.cpp.o -c /home/csmoulaison/repos/caravan/src/audio.cpp",
+  "file": "/home/csmoulaison/repos/caravan/src/audio.cpp",
+  "output": "CMakeFiles/caravan.dir/src/audio.cpp.o"
+},
+{
+  "directory": "/home/csmoulaison/repos/caravan/build",
+  "command": "/sbin/c++  -I/home/csmoulaison/repos/caravan/src -isystem /usr/include/SDL2  -o CMakeFiles/caravan.dir/src/bandits.cpp.o -c /home/csmoulaison/repos/caravan/src/bandits.cpp",
+  "file": "/home/csmoulaison/repos/caravan/src/bandits.cpp",
+  "output": "CMakeFiles/caravan.dir/src/bandits.cpp.o"
+},
+{
+  "directory": "/home/csmoulaison/repos/caravan/build",
+  "command": "/sbin/c++  -I/home/csmoulaison/repos/caravan/src -isystem /usr/include/SDL2  -o CMakeFiles/caravan.dir/src/draw.cpp.o -c /home/csmoulaison/repos/caravan/src/draw.cpp",
+  "file": "/home/csmoulaison/repos/caravan/src/draw.cpp",
+  "output": "CMakeFiles/caravan.dir/src/draw.cpp.o"
+},
+{
+  "directory": "/home/csmoulaison/repos/caravan/build",
+  "command": "/sbin/c++  -I/home/csmoulaison/repos/caravan/src -isystem /usr/include/SDL2  -o CMakeFiles/caravan.dir/src/game.cpp.o -c /home/csmoulaison/repos/caravan/src/game.cpp",
+  "file": "/home/csmoulaison/repos/caravan/src/game.cpp",
+  "output": "CMakeFiles/caravan.dir/src/game.cpp.o"
+},
+{
+  "directory": "/home/csmoulaison/repos/caravan/build",
+  "command": "/sbin/c++  -I/home/csmoulaison/repos/caravan/src -isystem /usr/include/SDL2  -o CMakeFiles/caravan.dir/src/game.dialog_state.cpp.o -c /home/csmoulaison/repos/caravan/src/game.dialog_state.cpp",
+  "file": "/home/csmoulaison/repos/caravan/src/game.dialog_state.cpp",
+  "output": "CMakeFiles/caravan.dir/src/game.dialog_state.cpp.o"
+},
+{
+  "directory": "/home/csmoulaison/repos/caravan/build",
+  "command": "/sbin/c++  -I/home/csmoulaison/repos/caravan/src -isystem /usr/include/SDL2  -o CMakeFiles/caravan.dir/src/game_over_state.cpp.o -c /home/csmoulaison/repos/caravan/src/game_over_state.cpp",
+  "file": "/home/csmoulaison/repos/caravan/src/game_over_state.cpp",
+  "output": "CMakeFiles/caravan.dir/src/game_over_state.cpp.o"
+},
+{
+  "directory": "/home/csmoulaison/repos/caravan/build",
+  "command": "/sbin/c++  -I/home/csmoulaison/repos/caravan/src -isystem /usr/include/SDL2  -o CMakeFiles/caravan.dir/src/game_ready_state.cpp.o -c /home/csmoulaison/repos/caravan/src/game_ready_state.cpp",
+  "file": "/home/csmoulaison/repos/caravan/src/game_ready_state.cpp",
+  "output": "CMakeFiles/caravan.dir/src/game_ready_state.cpp.o"
+},
+{
+  "directory": "/home/csmoulaison/repos/caravan/build",
+  "command": "/sbin/c++  -I/home/csmoulaison/repos/caravan/src -isystem /usr/include/SDL2  -o CMakeFiles/caravan.dir/src/handle_game_trade.cpp.o -c /home/csmoulaison/repos/caravan/src/handle_game_trade.cpp",
+  "file": "/home/csmoulaison/repos/caravan/src/handle_game_trade.cpp",
+  "output": "CMakeFiles/caravan.dir/src/handle_game_trade.cpp.o"
+},
+{
+  "directory": "/home/csmoulaison/repos/caravan/build",
+  "command": "/sbin/c++  -I/home/csmoulaison/repos/caravan/src -isystem /usr/include/SDL2  -o CMakeFiles/caravan.dir/src/input.cpp.o -c /home/csmoulaison/repos/caravan/src/input.cpp",
+  "file": "/home/csmoulaison/repos/caravan/src/input.cpp",
+  "output": "CMakeFiles/caravan.dir/src/input.cpp.o"
+},
+{
+  "directory": "/home/csmoulaison/repos/caravan/build",
+  "command": "/sbin/c++  -I/home/csmoulaison/repos/caravan/src -isystem /usr/include/SDL2  -o CMakeFiles/caravan.dir/src/inventory_ui.cpp.o -c /home/csmoulaison/repos/caravan/src/inventory_ui.cpp",
+  "file": "/home/csmoulaison/repos/caravan/src/inventory_ui.cpp",
+  "output": "CMakeFiles/caravan.dir/src/inventory_ui.cpp.o"
+},
+{
+  "directory": "/home/csmoulaison/repos/caravan/build",
+  "command": "/sbin/c++  -I/home/csmoulaison/repos/caravan/src -isystem /usr/include/SDL2  -o CMakeFiles/caravan.dir/src/main.cpp.o -c /home/csmoulaison/repos/caravan/src/main.cpp",
+  "file": "/home/csmoulaison/repos/caravan/src/main.cpp",
+  "output": "CMakeFiles/caravan.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/csmoulaison/repos/caravan/build",
+  "command": "/sbin/c++  -I/home/csmoulaison/repos/caravan/src -isystem /usr/include/SDL2  -o CMakeFiles/caravan.dir/src/marketplace.cpp.o -c /home/csmoulaison/repos/caravan/src/marketplace.cpp",
+  "file": "/home/csmoulaison/repos/caravan/src/marketplace.cpp",
+  "output": "CMakeFiles/caravan.dir/src/marketplace.cpp.o"
+},
+{
+  "directory": "/home/csmoulaison/repos/caravan/build",
+  "command": "/sbin/c++  -I/home/csmoulaison/repos/caravan/src -isystem /usr/include/SDL2  -o CMakeFiles/caravan.dir/src/tile_exploration.cpp.o -c /home/csmoulaison/repos/caravan/src/tile_exploration.cpp",
+  "file": "/home/csmoulaison/repos/caravan/src/tile_exploration.cpp",
+  "output": "CMakeFiles/caravan.dir/src/tile_exploration.cpp.o"
+},
+{
+  "directory": "/home/csmoulaison/repos/caravan/build",
+  "command": "/sbin/c++  -I/home/csmoulaison/repos/caravan/src -isystem /usr/include/SDL2  -o CMakeFiles/caravan.dir/src/turn.cpp.o -c /home/csmoulaison/repos/caravan/src/turn.cpp",
+  "file": "/home/csmoulaison/repos/caravan/src/turn.cpp",
+  "output": "CMakeFiles/caravan.dir/src/turn.cpp.o"
+}
+]
